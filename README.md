@@ -24,7 +24,6 @@ Aleo EZKL library provides a new framework for zkML inference that operates
 
 I'll explain by example.
 
-
 <img width="485" alt="image" src="https://github.com/user-attachments/assets/cfd71fd5-f3a7-4ef9-bcdf-35adad23f331">
 
 
