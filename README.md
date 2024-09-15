@@ -85,4 +85,5 @@ Aleo EZKL provides an inference model that consists of
 
 # Questions / Requests
 
-- Varuna Circuit code needs to be open for integration
+- Can I append my ZKML intergration submodule to [SnarkVM](https://github.com/AleoNet/snarkVM)? (Of course, the module will not have side effect to origin snarkvm).
+-  
